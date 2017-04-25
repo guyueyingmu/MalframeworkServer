@@ -1,0 +1,15 @@
+<?php
+$dbhost='192.168.2.138';
+$dbname='mydendroid';
+$dbuser='root';
+$dbpass='password';
+$username='lczgywzyy';
+$password='7ecb7882d32b0e26338a395542f4bb364ed86a6f0ce8597d4de4bf3f0a1239976c337b9654a5ea3cd48b11d1a85c96c7997a7d9969e2640132b3325d88878736';
+$postboxtextsize=10;
+$devicestablerefreshspeed=10000;
+$filestablerefreshspeed=10000;
+$messageboxrefreshspeed=10000;
+$offlineminutes=10;
+$timezonesetting='Asia/Hong_Kong';
+$autoscrolltextbox=true;
+?>

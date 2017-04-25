@@ -1,0 +1,3246 @@
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 11145
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 42182
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270623
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_11_58.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpL49fvn
+            [error] => 0
+            [size] => 11005
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 11295
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 48656
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270623
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_12_30.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpvC60Sn
+            [error] => 0
+            [size] => 11155
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 17628
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 42645
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270623
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_13_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpX3F3co
+            [error] => 0
+            [size] => 17488
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 2452
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 40155
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270623
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_16_07.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpWz6UGo
+            [error] => 0
+            [size] => 2312
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 11145
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 57060
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270760
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_11_58.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpBYAQnf
+            [error] => 0
+            [size] => 11005
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 11295
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 55761
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270760
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_12_30.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpbtJZn6
+            [error] => 0
+            [size] => 11155
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 17628
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 44941
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270761
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_13_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpNAY5E6
+            [error] => 0
+            [size] => 17488
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 2452
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 35191
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270761
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_10_16_07.jpg
+            [type] => 
+            [tmp_name] => /tmp/php2tl8cf
+            [error] => 0
+            [size] => 2312
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10861
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 52005
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270761
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_13_26_01.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpWE7Iog
+            [error] => 0
+            [size] => 10721
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 9416
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 45605
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421270941
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_13_29_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/php4OLSqf
+            [error] => 0
+            [size] => 9276
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 9416
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 42733
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421277597
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_13_29_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/php84Upox
+            [error] => 0
+            [size] => 9276
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 9676
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 49683
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421277597
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_15_09_06.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpK2q1Fw
+            [error] => 0
+            [size] => 9536
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 58317
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374783
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_20.mp4
+            [type] => 
+            [tmp_name] => /tmp/phpuA2u0p
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 38719
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374784
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_31.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpdYKzKt
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 59872
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374784
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_37.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpfe1U0t
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5887
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 57855
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374784
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_56.3gp
+            [type] => 
+            [tmp_name] => /tmp/php7diT8t
+            [error] => 0
+            [size] => 5753
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 88255
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 44265
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374784
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_17_00.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpqpEbmu
+            [error] => 0
+            [size] => 88121
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+Return Code: 1
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5982050
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 44010
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374788
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_22_36.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+file not set
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 21272459
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 46144
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421374789
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 41178
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391449
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_20.mp4
+            [type] => 
+            [tmp_name] => /tmp/php3koF1U
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 35756
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391449
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_31.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpapt1Lp
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 50750
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391450
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_37.3gp
+            [type] => 
+            [tmp_name] => /tmp/php3q5J4g
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5887
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 54738
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391450
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_16_56.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpeLfy8U
+            [error] => 0
+            [size] => 5753
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 88255
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 53685
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391450
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_17_00.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpM3GT2p
+            [error] => 0
+            [size] => 88121
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+Return Code: 1
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5982050
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 49883
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391455
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_22_36.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+file not set
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 21272459
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 52440
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391456
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 9416
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 45719
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391460
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_13_29_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/php6XJksQ
+            [error] => 0
+            [size] => 9276
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 9676
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 47432
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391460
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_14_15_09_06.jpg
+            [type] => 
+            [tmp_name] => /tmp/php6FKwHQ
+            [error] => 0
+            [size] => 9536
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 11531
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 37892
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391460
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_16_10_19_15.jpg
+            [type] => 
+            [tmp_name] => /tmp/php4vp463
+            [error] => 0
+            [size] => 11391
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 17545
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 39062
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391460
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_16_11_14_23.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpD2p5nq
+            [error] => 0
+            [size] => 17405
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 9483
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 36057
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391460
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_16_14_41_45.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpaXumNq
+            [error] => 0
+            [size] => 9343
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10875
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 50212
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421391460
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_16_14_47_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/php0t1FnE
+            [error] => 0
+            [size] => 10735
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16948
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 57870
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1421979995
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_23_10_26_18.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpLHKnqH
+            [error] => 0
+            [size] => 16808
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18102
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 39831
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1422349017
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_27_16_57_04.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpmJ15RD
+            [error] => 0
+            [size] => 17962
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 10.109.235.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 22339
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 10.109.235.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 10.109.235.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.208.43.172
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 53976
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1422860918
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_17_20_14.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpwIjxbj
+            [error] => 0
+            [size] => 22205
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+    [HTTP_HOST] => 10.109.235.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 36739
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 10.109.235.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 10.109.235.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.208.43.172
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 43737
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=1d2e9bf9d7d25a23&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=1d2e9bf9d7d25a23&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1422860918
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_18_16_39.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpuBCqtj
+            [error] => 0
+            [size] => 36605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 1d2e9bf9d7d25a23
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.2; Nexus 5 Build/LRX22G)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18102
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 58054
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=9c07906b84128e20&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=9c07906b84128e20&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1425111894
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_01_27_16_57_04.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpZkZlZj
+            [error] => 0
+            [size] => 17962
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 9c07906b84128e20
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.2; Nexus 5 Build/LRX22G)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16082
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 47931
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=9c07906b84128e20&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=9c07906b84128e20&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1425111894
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_10_43_02.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpOik15k
+            [error] => 0
+            [size] => 15942
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 9c07906b84128e20
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 5.0.2; Nexus 5 Build/LRX22G)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 15407
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.12
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 55958
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=9c07906b84128e20&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=9c07906b84128e20&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1425111894
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_28_16_24_50.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpE6ZaBl
+            [error] => 0
+            [size] => 15267
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 9c07906b84128e20
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.2.2; Nexus 4 Build/JDQ39)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16094
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.28
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 33341
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=599b075d450b730c&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=599b075d450b730c&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1426735242
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_03_19_11_20_26.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpkP2SYk
+            [error] => 0
+            [size] => 15954
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 599b075d450b730c
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 12812
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.2.59
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 50182
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429232795
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_13_00_25.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpPOVLd7
+            [error] => 0
+            [size] => 12675
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16928
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.2.59
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 50185
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429232795
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_13_01_07.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpk2giqa
+            [error] => 0
+            [size] => 16791
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16307
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.2.59
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 50198
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429232797
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_04_17_09_05_28.jpg
+            [type] => 
+            [tmp_name] => /tmp/phphAoEVf
+            [error] => 0
+            [size] => 16170
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 12812
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 58012
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429235572
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_13_00_25.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpJPAwcf
+            [error] => 0
+            [size] => 12675
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16928
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 54358
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429235573
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_13_01_07.jpg
+            [type] => 
+            [tmp_name] => /tmp/php34y01g
+            [error] => 0
+            [size] => 16791
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16307
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 56812
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429235573
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_04_17_09_05_28.jpg
+            [type] => 
+            [tmp_name] => /tmp/php7TzLCQ
+            [error] => 0
+            [size] => 16170
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 12812
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 54546
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429235944
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_13_00_25.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpzD0Bw9
+            [error] => 0
+            [size] => 12675
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16928
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 49628
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429235944
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_13_01_07.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpGHouqR
+            [error] => 0
+            [size] => 16791
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 16307
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 37161
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429235945
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_04_17_09_05_28.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpu6qpKN
+            [error] => 0
+            [size] => 16170
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Sensation Build/JZO54K)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 18736
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.8
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 41515
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=37fda6faefd40724&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=37fda6faefd40724&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1429236151
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_02_02_12_55.3gp
+            [type] => 
+            [tmp_name] => /tmp/phpbtGokr
+            [error] => 0
+            [size] => 18605
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 37fda6faefd40724
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.3; Nexus 4 Build/JWR66Y)
+    [HTTP_HOST] => 192.168.2.138
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 15289
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.15 (CentOS) Server at 192.168.2.138 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.15 (CentOS)
+    [SERVER_NAME] => 192.168.2.138
+    [SERVER_ADDR] => 192.168.2.138
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.3.28
+    [DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => root@localhost
+    [SCRIPT_FILENAME] => /var/www/html/new-upload.php
+    [REMOTE_PORT] => 37295
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=3f017b032b1545d0&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=3f017b032b1545d0&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME] => 1432803401
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2015_05_28_16_53_03.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpqz1cSJ
+            [error] => 0
+            [size] => 15149
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 3f017b032b1545d0
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
